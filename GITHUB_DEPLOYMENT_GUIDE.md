@@ -59,16 +59,16 @@ These are **generated files** and **sensitive data**:
 ### First Time Setup:
 ```bash
 # Navigate to your project
-cd "d:\Gen AI\ashok-leyland"
+cd "d:\\Gen AI\\subedar-automobiles"
 
 # Add all files (respecting .gitignore)
 git add .
 
 # Commit your changes
-git commit -m "Initial commit: Ashok Leyland website"
+git commit -m "Initial commit: Subedar Automobiles website"
 
 # Add your GitHub repository as remote
-git remote add origin https://github.com/yourusername/ashok-leyland.git
+git remote add origin https://github.com/yourusername/subedar-automobiles.git
 
 # Push to GitHub
 git push -u origin main
@@ -94,7 +94,7 @@ Based on your `package.json`, you're set up for GitHub Pages. Here's how to depl
 
 1. **Update package.json**: Change the homepage URL to your actual GitHub username
    ```json
-   "homepage": "https://YOUR-USERNAME.github.io/ashok-leyland"
+   "homepage": "https://YOUR-USERNAME.github.io/subedar-automobiles"
    ```
 
 2. **Install gh-pages** (if not already):

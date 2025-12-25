@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rohit7594.github.io/ashok-leyland",
+  "homepage": "https://Rohit7594.github.io/subedar-automobiles",
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.0",
     "class-variance-authority": "^0.7.1",
