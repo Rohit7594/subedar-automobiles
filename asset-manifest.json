@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ashokleyland_website/static/css/main.2d4aff8b.css",
-    "main.js": "/ashokleyland_website/static/js/main.093f1424.js",
-    "index.html": "/ashokleyland_website/index.html",
-    "main.2d4aff8b.css.map": "/ashokleyland_website/static/css/main.2d4aff8b.css.map",
-    "main.093f1424.js.map": "/ashokleyland_website/static/js/main.093f1424.js.map"
+    "main.css": "/ashok-leyland/static/css/main.2d4aff8b.css",
+    "main.js": "/ashok-leyland/static/js/main.1298a7ea.js",
+    "index.html": "/ashok-leyland/index.html",
+    "main.2d4aff8b.css.map": "/ashok-leyland/static/css/main.2d4aff8b.css.map",
+    "main.1298a7ea.js.map": "/ashok-leyland/static/js/main.1298a7ea.js.map"
   },
   "entrypoints": [
     "static/css/main.2d4aff8b.css",
-    "static/js/main.093f1424.js"
+    "static/js/main.1298a7ea.js"
   ]
 }
